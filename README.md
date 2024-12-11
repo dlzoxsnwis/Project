@@ -1,2 +1,2 @@
 # Project
-Introduction with GitHub
+Introduction to the GitHub
